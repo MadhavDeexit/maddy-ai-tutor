@@ -1,0 +1,9 @@
+[
+  {
+    "timestamp": "10:12:45",
+    "user_question": "what is cybersecurit",
+    "matched_to": "What is cybersecurity?",
+    "answer": "Cybersecurity is the practice of protecting computer systems, networks, and data from malicious attacks and unauthorized access. It encompasses multiple layers of defense including firewalls, encryption, authentication systems, intrusion detection, security audits, and employee training. The goal is to ensure confidentiality, integrity, and availability of information.",
+    "confidence": "64.7%"
+  }
+]

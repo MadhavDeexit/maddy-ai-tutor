@@ -1,0 +1,43 @@
+Question,Expected,Predicted,Confidence,Time_ms,Result
+Explain AI to me,Artificial Intelligence,Artificial Intelligence,76,27,PASS
+How do machines mimic human intelligence?,Artificial Intelligence,Artificial Intelligence,57,22,PASS
+Define artificial intelligence,Artificial Intelligence,Artificial Intelligence,90,19,PASS
+How do computers learn from data?,Machine Learning,Machine Learning,56,19,PASS
+Tell me about ML,Machine Learning,Out of scope,32,18,FAIL
+What is machine learning used for?,Machine Learning,Machine Learning,87,24,PASS
+What is deep learning?,Deep Learning,Deep Learning,100,17,PASS
+How do multi-layer networks learn?,Deep Learning,Neural Networks,56,18,FAIL
+Explain deep neural learning,Deep Learning,Deep Learning,77,16,PASS
+What are neural networks?,Neural Networks,Neural Networks,99,17,PASS
+How do artificial neurons work?,Neural Networks,Neural Networks,56,16,PASS
+Explain neural net architecture,Neural Networks,Neural Networks,70,17,PASS
+What is cybersecurity?,Cybersecurity,Cybersecurity,100,19,PASS
+How do I protect a network from hackers?,Cybersecurity,Computer Networks,37,22,FAIL
+Explain information security,Cybersecurity,Cybersecurity,58,15,PASS
+What is encryption?,Encryption,Encryption,100,17,PASS
+How does AES protect data?,Encryption,Encryption,56,17,PASS
+Explain how data is encoded to keep it secret,Encryption,Encryption,54,18,PASS
+What is Python?,Python,Python,100,14,PASS
+Tell me about the Python programming language,Python,Python,84,14,PASS
+Why do developers use Python?,Python,Python,73,12,PASS
+What is blockchain?,Blockchain,Blockchain,100,13,PASS
+How does a distributed ledger work?,Blockchain,Blockchain,48,13,PASS
+Explain chained blocks of transactions,Blockchain,Blockchain,45,11,PASS
+What is cloud computing?,Cloud Computing,Cloud Computing,100,13,PASS
+Explain AWS and Azure,Cloud Computing,Cloud Computing,54,13,PASS
+How are servers delivered over the internet?,Cloud Computing,TCP/IP,39,14,FAIL
+What is data science?,Data Science,Data Science,100,11,PASS
+How do analysts extract insights from data?,Data Science,Out of scope,34,11,FAIL
+Explain the field of data science,Data Science,Data Science,86,12,PASS
+What is NLP?,NLP,NLP,59,13,PASS
+How do computers understand human language?,NLP,NLP,55,14,PASS
+Explain natural language processing,NLP,NLP,87,13,PASS
+What is computer vision?,Computer Vision,Computer Vision,100,13,PASS
+How do machines understand images?,Computer Vision,Computer Vision,55,14,PASS
+Explain image recognition by computers,Computer Vision,Computer Vision,63,11,PASS
+What is pizza?,Out of scope,Out of scope,34,15,PASS
+Who won the cricket match yesterday?,Out of scope,Out of scope,23,19,PASS
+How do I cook rice?,Out of scope,Out of scope,12,14,PASS
+What is the capital of France?,Out of scope,Out of scope,16,14,PASS
+Tell me a joke,Out of scope,Out of scope,20,13,PASS
+What is the weather today?,Out of scope,Out of scope,21,12,PASS
