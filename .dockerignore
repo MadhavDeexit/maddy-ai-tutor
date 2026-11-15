@@ -1,6 +1,6 @@
 __pycache__/
 *.pyc
-session_*.json
+session*.json
 tutor.log
 .vscode/
 .git/
